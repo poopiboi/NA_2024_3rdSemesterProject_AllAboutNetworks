@@ -6,7 +6,7 @@ Version: 202401b
 
 Release Date: 2024 04 09
 
-Weblink: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37
+Weblink: file:///C:/Users/mhm25/Zotero/storage/5IY9LXMS/bdd_modele_item.html
 
 Download HS22(2022)
 
